@@ -18,12 +18,12 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=%23007ACC&labelColor=white)
 
 ## About Me
-- 👀 I’m interested in [mention your interests].
-- 🌱 I’m currently learning [mention what you're currently learning].
-- 💞️ I’m looking to collaborate on [mention if you're open to collaborations].
-- 📫 You can reach me via [mention your preferred contact method].
-- 😄 Pronouns: [mention your pronouns].
-- ⚡ Fun fact: [share a fun fact about yourself].
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach me via
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 Lucas-Crm/Lucas-Crm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
