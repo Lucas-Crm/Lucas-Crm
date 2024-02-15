@@ -25,7 +25,3 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
-<!---
-Lucas-Crm/Lucas-Crm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
