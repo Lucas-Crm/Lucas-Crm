@@ -22,6 +22,5 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me via
-- 😄 Pronouns: 
 - ⚡ Fun fact: 
 
