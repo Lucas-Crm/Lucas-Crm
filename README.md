@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=%23007ACC&labelColor=white)
 
 ## About Me
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in learning new skill
+- 🌱 I’m currently learning ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black) ![PHP Badge](https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=%23777BB4&labelColor=white) 
 - 📫 You can reach me via
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 
