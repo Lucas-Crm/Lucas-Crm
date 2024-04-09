@@ -23,3 +23,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 📫 You can reach me via
 - ⚡ Fun fact: 
 
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/Lucas-Crm/blob/output/github-contribution-grid-snake.svg)
