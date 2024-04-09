@@ -5,7 +5,6 @@
 ``` javascript
 let lucas = {
   // Informations personnelles
-  nom: "Cormy",
   prenom: "Lucas",
   age: 21,
   description: "Actuellement en formation de developpeur web et web mobile",
