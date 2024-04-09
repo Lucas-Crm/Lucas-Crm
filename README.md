@@ -8,18 +8,38 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
-``` js
-let lucas = new User (
-  Nom: "Cormy"
-  Prenom: "Lucas"
-  age: 21
+``` javascript
+let lucas = {
+  // Informations personnelles
+  nom: "Cormy",
+  prenom: "Lucas",
+  age: 21,
+  description: "Actuellement en formation de dev web",
 
-)
+  // Langages maîtrisés
+  langages: ["JavaScript", "HTML", "CSS", "PHP"],
 
+  // Langages et frameworks en apprentissage
+  langagesEnApprentissage: ["TypeScript"],
+  frameworkEnApprentissage: ["Symfony", "Vue.js"],
+
+}
 ```
+
+
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Crm&repo=Lucas-Crm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Lucas-Crm" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks;This+is+Lucas....;Good+Bye!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merci!👋;Aurevoir!&center=true&size=30">
   </a>
 </h2>
