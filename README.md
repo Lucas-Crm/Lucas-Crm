@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img widht="500" src="https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/master/name.gif" alt="Lucas-Crm" />
+  <img src="https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/master/name1.gif" alt="Lucas-Crm" />
 </h1>
 
 
