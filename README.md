@@ -8,7 +8,14 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
+``` js
+let Lucas = new User (
+  Nom: Cormy
+  Prenom: Lucas
 
+)
+
+```
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
