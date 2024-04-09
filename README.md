@@ -15,7 +15,7 @@ let lucas = {
 
   // Langages et frameworks en apprentissage
   langagesEnApprentissage: ["TypeScript"],
-  frameworkEnApprentissage: ["Symfony", "Vue.js", "tailwind"],
+  frameworkEnApprentissage: ["Symfony", "Vue.js", "Tailwind"],
 
 }
 ```
