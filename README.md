@@ -9,9 +9,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
 ``` js
-let Lucas = new User (
-  Nom: Cormy
-  Prenom: Lucas
+let lucas = new User (
+  Nom: "Cormy"
+  Prenom: "Lucas"
+  age: 21
 
 )
 
