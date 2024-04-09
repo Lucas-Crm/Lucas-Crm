@@ -11,8 +11,8 @@ let lucas = {
   age: 21,
   description: "Actuellement en formation de developpeur web et web mobile",
 
-  // Langages maîtrisés
-  langages: ["JavaScript", "HTML", "CSS", "PHP"],
+  // Langages
+  langages: ["JavaScript", "HTML", "CSS", "PHP", "SASS"],
 
   // Langages et frameworks en apprentissage
   langagesEnApprentissage: ["TypeScript"],
