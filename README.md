@@ -10,3 +10,7 @@
 </h2>
  
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Crm&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
+![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
+
