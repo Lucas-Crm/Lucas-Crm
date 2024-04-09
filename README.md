@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/master/name1.gif" alt="Lucas-Crm" />
 </h1>
@@ -18,7 +20,9 @@ let lucas = {
 
 }
 ```
-
+<div align="center">
+  
+![Lucas-Crm GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Crm&show_icons=true&theme=gruvbox)
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
 
@@ -33,3 +37,4 @@ let lucas = {
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Merci!;Aurevoir!👋&center=true&size=30">
   </a>
 </h2>
+</div>
