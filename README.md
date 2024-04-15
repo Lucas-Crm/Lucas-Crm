@@ -8,7 +8,7 @@
 let lucas = {
   // Informations personnelles
   prenom: "Lucas",
-  age: 21,
+  age: 21,khk:jb
   description: "Actuellement en formation de developpeur web et web mobile",
 
   // Langages
