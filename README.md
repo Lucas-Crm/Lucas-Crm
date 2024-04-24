@@ -8,7 +8,7 @@
 let lucas = {
   // Informations personnelles
   prenom: "Lucas",
-  age: 21,khk:jb
+  age: 21,
   description: "Actuellement en formation de developpeur web et web mobile",
 
   // Langages
@@ -17,7 +17,6 @@ let lucas = {
   // Langages et frameworks en apprentissage
   langagesEnApprentissage: ["TypeScript"],
   frameworkEnApprentissage: ["Symfony", "Vue.js", "Tailwind"],
-
 }
 ```
 <div align="center">
