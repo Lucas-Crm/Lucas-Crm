@@ -28,7 +28,7 @@ let lucas = {
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Lucas-Crm&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Crm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Crm&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Lucas-Crm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
