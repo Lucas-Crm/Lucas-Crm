@@ -19,6 +19,10 @@ let lucas = {
   frameworkEnApprentissage: ["Symfony", "Vue.js", "Tailwind"],
 }
 ```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas-Crm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center">
   
 ![Lucas-Crm GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Crm&show_icons=true&theme=gruvbox)
