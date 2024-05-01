@@ -23,7 +23,7 @@ let lucas = {
 ```
 
 
-# 💻Tech Stack
+# 💻Technologies Utiliser
 
 <img align="left" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -44,18 +44,14 @@ let lucas = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Crm&theme=dark&hide_border=false)<br/>
 
 
-## 🏆GitHub Trophies
+## 🏆GitHub Trophés
 ![](https://github-trophies.vercel.app/?username=Lucas-Crm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merci!;Aurevoir!👋&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merci!;Au+revoir!👋&center=true&size=30">
   </a>
 </h2>
 </div>
