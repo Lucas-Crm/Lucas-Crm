@@ -13,11 +13,11 @@ let lucas = {
   description: "Actuellement en formation de developpeur web et web mobile",
 
   // Langages
-  langages: ["JavaScript", "HTML", "CSS", "PHP"],
+  langages: ["JavaScript", "HTML5", "CSS3", "PHP", "TypeScript"],
   framework: ["SASS"],
 
   // Langages et frameworks en apprentissage
-  langagesEnApprentissage: ["TypeScript"],
+  langagesEnApprentissage: [],
   frameworkEnApprentissage: ["Symfony", "Vue.js", "Tailwind"],
 }
 ```
