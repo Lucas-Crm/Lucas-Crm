@@ -5,21 +5,15 @@
 
 # 💫A propos de moi :
 
-``` javascript
-let lucas = {
-  // Informations personnelles
-  prenom: "Lucas",
-  age: 21,
-  description: "Actuellement en formation de developpeur web et web mobile",
+``` php
 
-  // Langages
-  langages: ["JavaScript", "HTML5", "CSS3", "PHP", "TypeScript"],
-  framework: ["SASS"],
+$user = (new User)  // Création d'un nouvel utilisateur
+            ->setName('Lucas') // Définition du nom
+            ->setAge(22) // Définition de l'âge
+            ->setDescription('Actuellement en formation de developper web') // Définition de la description
+            ->setLangages(["JavaScript", "TypeScript", "PHP", "HTML5", "CSS3"]) // Définition des langages de programmation connus
+            ->setFramework(["Symfony", "Vue.Js"]); // Définition des frameworks connus
 
-  // Langages et frameworks en apprentissage
-  langagesEnApprentissage: [],
-  frameworkEnApprentissage: ["Symfony", "Vue.js", "Tailwind"],
-}
 ```
 
 
@@ -44,8 +38,8 @@ let lucas = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Crm&theme=dark&hide_border=false)<br/>
 
 
-## 🏆GitHub Trophés
-![](https://github-trophies.vercel.app/?username=Lucas-Crm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophés
+![](https://github-trophies.vercel.app/?username=Lucas-Crm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
 
