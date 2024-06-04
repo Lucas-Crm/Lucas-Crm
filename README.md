@@ -16,7 +16,6 @@ $user = (new User)  // Création d'un nouvel utilisateur
 
 ```
 
-
 # 💻Technologies Utiliser
 
 <img align="left" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
