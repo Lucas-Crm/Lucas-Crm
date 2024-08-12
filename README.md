@@ -37,9 +37,6 @@ $user = (new User)  // Création d'un nouvel utilisateur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Crm&theme=dark&hide_border=false)<br/>
 
 
-<!-- ## 🏆GitHub Trophés
-![](https://github-trophies.vercel.app/?username=Lucas-Crm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
-
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Crm/Lucas-Crm/output/github-contribution-grid-snake-dark.svg)
 
 <h2 align="center">
